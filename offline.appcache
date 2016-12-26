@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1482768426
+#1482777296
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -40,6 +40,7 @@ images/checkbtn_no-sheet1.png
 images/checkbtn_yes-sheet0.png
 images/checkbtn_yes-sheet1.png
 images/checkbtn_yes-sheet2.png
+images/checkbox_surrender-sheet0.png
 images/sprite-sheet0.png
 media/button05.ogg
 media/mobile_phone_c.ogg

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1482768426,
+	"version": 1482777296,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,7 @@
 		"images/checkbtn_yes-sheet0.png",
 		"images/checkbtn_yes-sheet1.png",
 		"images/checkbtn_yes-sheet2.png",
+		"images/checkbox_surrender-sheet0.png",
 		"images/sprite-sheet0.png",
 		"media/button05.ogg",
 		"media/mobile_phone_c.ogg",
