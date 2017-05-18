@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1482822694
+#1495069594
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,7 +7,6 @@ images/playerframe-sheet0.png
 images/playericon-sheet0.png
 images/battlepointa-sheet0.png
 images/battlepointa-sheet1.png
-images/battlepointa-sheet2.png
 images/battlepointb-sheet0.png
 images/battlepointb-sheet1.png
 images/battlepointc-sheet0.png
@@ -19,6 +18,7 @@ images/battlepointe-sheet1.png
 images/bee-sheet0.png
 images/moth-sheet0.png
 images/unicorn-sheet0.png
+images/battlepointb2-sheet0.png
 images/main_unicorn-sheet0.png
 images/main_moth-sheet0.png
 images/main_bee-sheet0.png
@@ -58,6 +58,22 @@ images/camera-sheet0.png
 images/unicornbullet-sheet0.png
 images/sprite3-sheet0.png
 images/tiledbackground.png
+images/tiledbackground2.png
+images/sprite4-sheet0.png
+images/main_ui-sheet0.png
+images/category3x-sheet0.png
+images/category2x-sheet0.png
+images/main_chart-sheet0.png
+images/main_chart-sheet1.png
+images/main_chart-sheet2.png
+images/text_category3x-sheet0.png
+images/text_pve3x-sheet0.png
+images/text_tutorial3x-sheet0.png
+images/text_pvp3x-sheet0.png
+images/messagemgame.png
+images/ground-sheet0.png
+images/player-sheet0.png
+images/sprite5-sheet0.png
 media/button05.ogg
 media/mobile_phone_c.ogg
 media/bk_guns&roses.ogg
